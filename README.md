@@ -8,7 +8,7 @@ Digitalizar o processo de vistoria de veículos, permitindo documentar o estado 
 
 ## Integrantes
 
-- Kaique Fernandes e Joao Leal
+- Kaique Fernandes e João Leal
 
 ## Disciplina
 
